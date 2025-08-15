@@ -225,19 +225,19 @@ const Keyboard = () => {
         <div className="flex-1">
           <div className="w-full flex justify-center">
             {" "}
-            <div className="flex flex-col border justify-center items-center w-22 h-10 bg-neutral-950 text-white rounded-xl border-neutral-200/65 shadow-[0_2px_3px_rgba(255,255,255,0.2)_inset,0_-2px_3px_rgba(255,255,255,0.2)_inset] gap-2 hover:shadow-[-5px_5px_10px_rgba(0,0,0,0.5),9px_9px_10px_rgba(0,0,0,0.3),10px_10px_10px_rgba(0,0,0,0.3),-8px_8px_10px_rgba(0,0,0,0.3)] transition-transform duration-300 hover:scale-95">
+            <div className="flex flex-col border justify-center items-center w-22 h-10 bg-neutral-950 text-white rounded-xl border-neutral-200/65 shadow-[0_2px_3px_rgba(255,255,255,0.2)_inset,0_-2px_3px_rgba(255,255,255,0.2)_inset,0_8px_10px_rgba(255,255,255,0.8)] gap-2 hover:shadow-[-5px_5px_10px_rgba(0,0,0,0.5),9px_9px_10px_rgba(0,0,0,0.3),10px_10px_10px_rgba(0,0,0,0.3),-8px_8px_10px_rgba(0,0,0,0.3)] transition-transform duration-300 hover:scale-95 ">
               <ChevronUp />
             </div>
           </div>
           <div className="flex justify-center">
             {" "}
-            <div className="flex flex-col border justify-center items-center w-22 h-10 bg-neutral-950 text-white rounded-xl border-neutral-200/65 shadow-[0_2px_3px_rgba(255,255,255,0.2)_inset,0_-2px_3px_rgba(255,255,255,0.2)_inset] gap-2 hover:shadow-[-5px_5px_10px_rgba(0,0,0,0.5),9px_9px_10px_rgba(0,0,0,0.3),10px_10px_10px_rgba(0,0,0,0.3),-8px_8px_10px_rgba(0,0,0,0.3)] transition-transform duration-300 hover:scale-95">
+            <div className="flex flex-col border justify-center items-center w-22 h-10 bg-neutral-950 text-white rounded-xl border-neutral-200/65 shadow-[0_2px_3px_rgba(255,255,255,0.2)_inset,0_-2px_3px_rgba(255,255,255,0.2)_inset,0_8px_10px_rgba(255,255,255,0.8)] gap-2 hover:shadow-[-5px_5px_10px_rgba(0,0,0,0.5),9px_9px_10px_rgba(0,0,0,0.3),10px_10px_10px_rgba(0,0,0,0.3),-8px_8px_10px_rgba(0,0,0,0.3)] transition-transform duration-300 hover:scale-95">
               <ChevronLeft />
             </div>
-            <div className="flex flex-col border justify-center items-center w-22 h-10 bg-neutral-950 text-white rounded-xl border-neutral-200/65 shadow-[0_2px_3px_rgba(255,255,255,0.2)_inset,0_-2px_3px_rgba(255,255,255,0.2)_inset] gap-2 hover:shadow-[-5px_5px_10px_rgba(0,0,0,0.5),9px_9px_10px_rgba(0,0,0,0.3),10px_10px_10px_rgba(0,0,0,0.3),-8px_8px_10px_rgba(0,0,0,0.3)] transition-transform duration-300 hover:scale-95">
+            <div className="flex flex-col border justify-center items-center w-22 h-10 bg-neutral-950 text-white rounded-xl border-neutral-200/65 shadow-[0_2px_3px_rgba(255,255,255,0.2)_inset,0_-2px_3px_rgba(255,255,255,0.2)_inset,0_8px_10px_rgba(255,255,255,0.8)] gap-2 hover:shadow-[-5px_5px_10px_rgba(0,0,0,0.5),9px_9px_10px_rgba(0,0,0,0.3),10px_10px_10px_rgba(0,0,0,0.3),-8px_8px_10px_rgba(0,0,0,0.3)] transition-transform duration-300 hover:scale-95">
               <ChevronDown />
             </div>
-            <div className="flex flex-col border justify-center items-center w-22 h-10 bg-neutral-950 text-white rounded-xl border-neutral-200/65 shadow-[0_2px_3px_rgba(255,255,255,0.2)_inset,0_-2px_3px_rgba(255,255,255,0.2)_inset] gap-2 hover:shadow-[-5px_5px_10px_rgba(0,0,0,0.5),9px_9px_10px_rgba(0,0,0,0.3),10px_10px_10px_rgba(0,0,0,0.3),-8px_8px_10px_rgba(0,0,0,0.3)] transition-transform duration-300 hover:scale-95">
+            <div className="flex flex-col border justify-center items-center w-22 h-10 bg-neutral-950 text-white rounded-xl border-neutral-200/65 shadow-[0_2px_3px_rgba(255,255,255,0.2)_inset,0_-2px_3px_rgba(255,255,255,0.2)_inset,0_8px_10px_rgba(255,255,255,0.8)] gap-2 hover:shadow-[-5px_5px_10px_rgba(0,0,0,0.5),9px_9px_10px_rgba(0,0,0,0.3),10px_10px_10px_rgba(0,0,0,0.3),-8px_8px_10px_rgba(0,0,0,0.3)] transition-transform duration-300 hover:scale-95">
               <ChevronRight />
             </div>
           </div>
