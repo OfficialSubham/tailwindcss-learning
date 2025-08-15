@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #2d3033;
+  --color-secondary: #767a7b;
+}
+
+.hovered {
+  @apply scale-110 shadow-[2px_-2px_10px_rgba(0,118,255,0.7),-4px_7px_10px_rgba(0,118,255,0.3),6px_-2px_10px_rgba(0,118,255,0.3),-4px_6px_10px_rgba(0,118,255,0.3),4px_8px_8px_rgba(0,118,255,0.6),-4px_-2px_10px_rgba(0,118,255,1)];
+}
